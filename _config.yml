@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Thomas White"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A collection of various Data Science Projects"
+  bio              : "Data Science Porfolio"
   location         : "Los Angeles, CA"
   email            :
   links:
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+        url: "https://github.com/twhite99"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
