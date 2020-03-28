@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Porfolio"
   location         : "Los Angeles, CA"
-  email            :
+  email            : "twhite99@g.ucla.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
