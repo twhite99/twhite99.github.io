@@ -281,10 +281,10 @@ defaults:
       related: true
 
   # _pages
-  pages:
-    - scope:
+pages:
+  - scope:
       path: ""
       type: pages
-      values:
+    values:
         layout: single
         author_profile: true
