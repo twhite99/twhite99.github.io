@@ -2,7 +2,7 @@
 layout: archive
 permalink: /projects/
 title: "Data Science Projects by tags"
-author_profile: TRUE
+author_profile: true
 Header:
    image: "/images/Court_of_Sciences.JPG"
 ---
