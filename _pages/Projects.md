@@ -6,6 +6,7 @@ author_profile: TRUE
 Header:
    image: "/images/Court_of_Sciences2.jpg"
 ---
+
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
