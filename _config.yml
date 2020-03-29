@@ -98,6 +98,9 @@ author:
   bio              : "Data Science Porfolio"
   location         : "Los Angeles, CA"
   email            : "twhite99@g.ucla.edu"
+  - label          : "GitHub"
+     icon             : "fab fa-fw fa-github"
+    url              : "https://github.com/twhite99"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
