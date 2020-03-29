@@ -2,7 +2,7 @@
 Title: "About"
 permalink: /about/
 Header:
-   image: "/images/Court_of_Sciences2.jpeg"
+   image: "/images/Royce.jpg"
 ---
 
 # Background
