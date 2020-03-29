@@ -14,7 +14,7 @@ I'm an aspiring statistician/data scientist looking to distill large, complex, a
 
 Experimental Design (ANOVA), Regression Analysis, Machine Learning, Data Mining, Statistical Inference, Multivariate Analysis, Statistical and Quantitative Analysis, Computational Statistics, Random Processes, and Mathematical Modeling.
 
-### Languages/Tools
+### Languages/Tools:
 ### **Proficient**
 *R, SQL, Tableau, Excel, PowerPoint*
 
