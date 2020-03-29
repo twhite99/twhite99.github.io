@@ -17,7 +17,7 @@ Experimental Design (ANOVA), Regression Analysis, Machine Learning, Data Mining,
 # Languages/Tools
 
 ## Proficient
-R, SQL, Tableau, Excel, PowerPoint
+*R, SQL, Tableau, Excel, PowerPoint*
 
 ## Familiar With:
-Python, Java, C++, HTML, MS Office
+*Python, Java, C++, HTML, MS Office*
